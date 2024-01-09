@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.exe.config
+C:\Users\willi\source\repos\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.exe
+C:\Users\willi\source\repos\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.pdb
+C:\Users\willi\source\repos\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.exe
+C:\Users\willi\source\repos\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.pdb
